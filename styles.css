@@ -1,0 +1,53 @@
+body{
+    background-color: #ddd;
+    padding: 80px;
+}
+
+.container{
+ background-color: #fff;
+ max-width:  1200px;
+ padding: 30px;
+}
+
+.titulo{
+    margin-top: 50px;
+    font-family:Helvetica;
+    text-align: center;
+    font-size: larger;
+}
+.paragrafos{
+    font-family: Georgia;
+    text-align: center;
+}
+.txt-quad{
+    text-indent: 25px;
+    font-size: 200%;
+}
+.titulo2{
+    font-weight: bold;
+    font-family: helvetica;
+}
+.img{
+    margin-top: 50px;
+    text-align: center;
+}
+.konteiner-esquerda{
+    text-align: left;
+    display: block;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.paragrafos1{
+    text-align: left;
+    font-family: Georgia;
+}
+.quadrado{
+    background-color: #ddd;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    padding: 15px 15px 15px 15px;
+}
